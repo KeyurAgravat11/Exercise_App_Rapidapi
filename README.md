@@ -11,5 +11,4 @@
 
 
 
-!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-7.png?token=GHSAT0AAAAAABXQPGQRVYIKFHM6LM5MCTMCYXXSXYQ
-"Responsive Muscle Feast App With ExerciseDB API")
+
